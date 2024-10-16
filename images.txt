@@ -20,3 +20,6 @@ calico/kube-controllers:v3.26.1
 calico/typha:v3.26.1
 calico/node-driver-registrar:v3.26.1
 calico/csi:v3.26.1
+
+#docker环境
+library/openjdk:8-jdk-alpine
